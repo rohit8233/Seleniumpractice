@@ -33,7 +33,7 @@ public class Test1 {
 		//WebElement a=calfrm.findElement(By.name("Calculator"));
 		WebElement b=driver.findElement(By.id("num7Button"));
 		option.setLaunchDelay(2);
-		b.click();
+		b.click();   //good
 	
 	//	WebElement c=b.findElement(By.name("Open Navigation"));
        //  c.click();
